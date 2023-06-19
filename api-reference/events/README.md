@@ -110,3 +110,7 @@
 | `/server_scripts/`  | `PlayerEvents.inventoryChanged`         | ❌               |
 | `/server_scripts/`  | `PlayerEvents.chestOpened`              | ❌               |
 | `/server_scripts/`  | `PlayerEvents.chestClosed`              | ❌               |
+
+.book .book-body .page-wrapper .page-inner {
+  max-width: 90%;
+}
