@@ -1,5 +1,6 @@
 # StartupEvents.registry (block)
 
+## Basic Format
 ```js
 StartupEvents.registry('block', event => {
   event.create()
