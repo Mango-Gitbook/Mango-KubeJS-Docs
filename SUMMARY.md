@@ -5,11 +5,11 @@
 ## API Reference
 
 * [Events](api-reference/events/README.md)
-  * [StartupEvents](api-reference/events/page-1/README.md)
-    * [StartupEvents.registry](api-reference/events/page-1/startupevents.registry/README.md)
-      * [StartupEvents.registry (fluid)](api-reference/events/page-1/startupevents.registry/startupevents.registry-fluid.md)
-      * [StartupEvents.registry (block)](api-reference/events/page-1/startupevents.registry/startupevents.registry-block.md)
-      * [StartupEvents.registry (item)](api-reference/events/page-1/startupevents.registry/startupevents.registry-item.md)
+  * [StartupEvents](api-reference/events/startevents/README.md)
+    * [StartupEvents.registry](api-reference/events/startevents/startupevents.registry/README.md)
+      * [StartupEvents.registry (fluid)](api-reference/events/startevents/startupevents.registry/startupevents.registry-fluid.md)
+      * [StartupEvents.registry (block)](api-reference/events/startevents/startupevents.registry/startupevents.registry-block.md)
+      * [StartupEvents.registry (item)](api-reference/events/startevents/startupevents.registry/startupevents.registry-item.md)
   * [ClientEvents](api-reference/events/clientevents.md)
   * [ServerEvents](api-reference/events/serverevents/README.md)
     * [ServerEvents.tick](api-reference/events/serverevents/serverevents.tick.md)
