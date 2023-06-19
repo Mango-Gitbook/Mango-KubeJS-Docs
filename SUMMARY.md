@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Welcome to KubeJS](README.md)
+  * [Features](readme/features.md)
+  * [FAQ](readme/faq.md)
 
 ## API Reference
 
@@ -26,3 +28,24 @@
     * [BlockEvents.modification](api-reference/events/blockevents/blockevents.modification.md)
   * [EntityEvents](api-reference/events/entityevents.md)
   * [PlayerEvents](api-reference/events/playerevents.md)
+* [Data Classes](api-reference/data-classes/README.md)
+  * [Globals](api-reference/data-classes/globals.md)
+  * [Java Classes](api-reference/data-classes/java-classes.md)
+* [Addons](api-reference/addons/README.md)
+  * [ProbeJS](api-reference/addons/probejs.md)
+  * [KubeJS Create](api-reference/addons/kubejs-create.md)
+
+## Examples
+
+* [\*placeholder](examples/placeholder.md)
+
+## Others
+
+* [Default Options](others/default-options.md)
+* [Changing Window Title and Icon](others/changing-window-title-and-icon.md)
+* [Loading Assets and Data](others/loading-assets-and-data.md)
+* [Changing Mod Display Names](others/changing-mod-display-names.md)
+
+***
+
+* [Other Links](other-links.md)
