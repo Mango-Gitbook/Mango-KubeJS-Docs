@@ -13,7 +13,8 @@ StartupEvents.registry('item', event => {
 
 ...
 
-#### PARAMETERS:  
-- **id** (string)  
-#### RETURN TYPE:  
-- **ItemBuilder** (Internal.BasicItemJS$Builder)
+> PARAMETERS:  
+> - **id** (string)  
+
+> RETURN TYPE:  
+> - **ItemBuilder** (Internal.BasicItemJS$Builder)
