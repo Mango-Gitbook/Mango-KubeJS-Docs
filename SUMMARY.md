@@ -5,4 +5,5 @@
 ## API Reference
 
 * [Events](api-reference/events/README.md)
-  * [Page 1](api-reference/events/page-1.md)
+  * [StartupEvents](api-reference/events/page-1/README.md)
+    * [StartupEvents.init](api-reference/events/page-1/startupevents.init.md)
