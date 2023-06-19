@@ -111,6 +111,8 @@
 | `/server_scripts/`  | `PlayerEvents.chestOpened`              | ❌               |
 | `/server_scripts/`  | `PlayerEvents.chestClosed`              | ❌               |
 
+<style>
 .book .book-body .page-wrapper .page-inner {
   max-width: 90%;
 }
+</style>
